@@ -2,6 +2,7 @@
 
 # Introduction
 This program is an application of Principal Component Analysis (PCA) into scientific area using large data set. This program also demonstrates how to apply PCA using Python. Follows are general steps applying PCA:
+
 0. The very first step is to include these codes at the top of your program: 
 from sklearn.decomposition import PCA
 from sklearn.preprocessing import StandardScaler
