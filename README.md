@@ -3,7 +3,7 @@
 ## Introduction
 This program is an application of Principal Component Analysis (PCA) into scientific area using pandas, numpy and matplotlib packages. The original data is from Environment and Climate Change Canada. 
 
-Follows are general steps applying PCA:
+Follows are general steps applying PCA:\
 0. The very first step is to include these codes at the top of your program: 
 from sklearn.decomposition import PCA
 from sklearn.preprocessing import StandardScaler
